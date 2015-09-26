@@ -1,2 +1,2 @@
 # SMA
-Optimal Simple Moving Average
+Fast Simple Moving Average
